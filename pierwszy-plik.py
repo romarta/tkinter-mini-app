@@ -35,3 +35,6 @@ time_label.pack(pady=20)
 update_time()
 
 root.mainloop()
+
+#dwie kolejne linijki
+#gogogo
